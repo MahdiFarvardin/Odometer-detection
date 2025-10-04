@@ -1,4 +1,4 @@
-<img width="395" height="133" alt="image" src="https://github.com/user-attachments/assets/6b61a34e-c69b-4fe3-aac7-bb4e1c601946" /># Odometer-detection
+# Odometer-detection
 This code would automatically capture your car's mileage based on the given input image of a dashboard.
 below you cna see some images that would clarify what I mean :))
 
